@@ -1,4 +1,6 @@
-Hello im learning github
-its a bad day 
-i hate collage
-who loves collage?
+i love parrot.os
+  i love parrot.os
+    i love parrot.os
+  i love parrot.os
+i love parrot.os
+    
